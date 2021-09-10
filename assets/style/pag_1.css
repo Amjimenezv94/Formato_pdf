@@ -1,0 +1,113 @@
+
+.header{
+    display: block;
+    
+    padding:0px 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer{
+    display: block;
+    bottom:0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: small;
+    border-collapse: collapse;    
+    align-content: center;
+    width: 780px;
+   
+
+   
+  }
+
+  .head{
+      color: white;
+  }
+tr,td{
+
+    border: 1px solid rgb(0, 0, 0);
+
+}
+
+.without{
+
+    border: 0px solid rgb(219, 211, 211);
+
+}
+
+th,head{
+background-color:  #04242c;
+color: white;
+text-align: center;
+
+  
+
+}
+
+.event{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    height: 10px;
+    margin: 10px;
+    font-size: 14px;
+}
+
+.next{
+    float: right;
+    margin:40px;
+}
+
+.next:hover, .back:hover{
+
+    width: 60px;
+    
+}
+
+.back{
+    float: left;
+    margin:40px;
+    transform: rotate(180deg);
+}
+
+.alarma{
+    height: 2px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.event-meteo{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+
+.credits{
+    float: right;
+    margin-right: px;
+    margin-top: 5px;
+}
+
+.credit{
+    
+    margin-right: 300px;
+    margin-top: 5px;
+    
+}
+
+.table-credits{
+    border:1px solid white
+}
+
